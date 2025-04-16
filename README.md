@@ -23,10 +23,10 @@ Users may control this device via:
 - Common USB game controllers
 - Common USB keyboard and mouse
   
-\* *USB devices are connected to the optional USB-C port.*
+\* *USB devices are connected via the optional USB-C port.*
 
 **5. Switchable Power Input Options**
 
 - Power this device as well as the connected gSCARTsw from optional barrel jack/USB-C connector.
 - Switch power on/off from the souces above when the optional toggle switch is populated.
-- Original Micro USB port still works.
+*\* Original Micro USB power port still functions.*
