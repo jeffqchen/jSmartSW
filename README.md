@@ -3,8 +3,8 @@ A smart controller for gScartSW v5.2 that works with RetroTink 4K. This device c
 
 ## Main Features
 
-- Control which input is used on the gSCARTsw, beside using it's orignal auto input detection.
-- Switch the profile on RetroTink 4K automatically with input change
-- See which input is selected on the screen and from the RGB LEDs.
-- Control RetroTink 4K with various USB controllers and keyboard, even a mouse.
+- Automatically switch profiles on the RetroTink 4K with input changes
+- Control which input is active on the gSCARTsw, beside using it's orignal auto input detection.
+- See which input is selected on the OLED screen or RGB LEDs.
+- Control RetroTink 4K with various USB controllers, or even a keyboard/mouse.
 - Use barrel jack or USB-C, with an actual power switch.
