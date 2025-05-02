@@ -16,6 +16,8 @@ Please refer to Project Wiki pages for more detailed information.
 
 ### Main Board
 
+![image](https://github.com/user-attachments/assets/9b3c9766-7b6a-420e-9871-22fa038c6d9f)
+
 ### Keypad
 
 ## Functionality
