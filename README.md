@@ -20,6 +20,9 @@ Please refer to Project Wiki pages for more detailed information.
 
 ### Keypad
 
+![image](https://github.com/user-attachments/assets/26aee5cb-a52c-41d6-9f97-2cac8b780683)
+
+
 ## Functionality
 
 ### Main Board
