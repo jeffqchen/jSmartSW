@@ -33,4 +33,39 @@ Please refer to the [RetroTink 4K Wiki](https://consolemods.org/wiki/AV:RetroTIN
 
 ### Keypad
 
+![image](https://github.com/user-attachments/assets/969b370a-b35e-42d5-88aa-44e53472b07e)
+
+The keypad has 8 keys, corresponding to each of the inputs on a gSCARTsw. An OLED screen and 16 addressable RGB LEDs provide visual feedback of the operation state.
+
+A firm press on a key will trigger a corresponding input change, as well as notifying the RetroTink 4K with an SVS profile change command.
+
+If `1/SHIFT` is held, you can use the various functions marked below each of the input keys.
+
+Holding an input key for longer than 2 seconds will trigger input icon customization. You will be able to choose an icon for the corresponding input for better recognition.
+
 ### USB Input Devices
+
+![image](https://github.com/user-attachments/assets/bc277d80-6a3d-404e-b406-9c16c191ae33)
+
+You can connect various USB HID devices to operate the jSmartSW. Supported USB devices include:
+
+Sony:
+- DualShock 3
+- DualShock 4
+- DualSense
+- [PSX2USB](https://github.com/jeffqchen/PSX2USB_hardware)
+
+
+Nintendo
+- Switch JoyCon Charging Grip
+- Switch Pro Controller
+- 8bitdo M30 2.4g (Pro Controller Mode)
+
+Sega
+- Saturn USB Controller
+- [Genesis 2X Controller to USB Adapter](https://github.com/jeffqchen/Genesis-2X-Controller-to-USB-Adapter)
+
+Generic
+- USB Keyboard
+- USB Mouse
+
