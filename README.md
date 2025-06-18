@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b72ef1bd-7279-4c3d-9a03-44363c54772e)
+
 A smart controller for gScartSW v5.2 that works with RetroTink 4K. This device connects to the gSCARTsw v5.2 via the unpopulated 8-pin EXT port and enhances the gSCARTsw on multiple aspects.
 
 # Main Features
