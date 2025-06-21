@@ -10,7 +10,7 @@ A smart controller for gScartSW v5.2 that works with RetroTink 4K. This device c
 - Power the gSCARTsw with a barrel jack or USB-C, with an actual power switch that can turn power off.
 - Control RetroTink 4K with various USB controllers, or even a keyboard/mouse.
 
-Please refer to Project Wiki pages for more detailed information.
+Please refer to [Project Wiki Pages](https://github.com/jeffqchen/jSmartSW/wiki) for more detailed information.
 
 ![image](https://github.com/user-attachments/assets/b72ef1bd-7279-4c3d-9a03-44363c54772e)
 
