@@ -1,6 +1,4 @@
-![jsmartsw_logo_white](https://github.com/user-attachments/assets/47bc4ae2-9f5b-4542-b47e-72caae069fc3)
-
-![image](https://github.com/user-attachments/assets/b72ef1bd-7279-4c3d-9a03-44363c54772e)
+![jsmartsw_banner](https://github.com/user-attachments/assets/fffaf668-7a4b-4a9c-a96e-49f9fc46e06b)
 
 A smart controller for gScartSW v5.2 that works with RetroTink 4K. This device connects to the gSCARTsw v5.2 via the unpopulated 8-pin EXT port and enhances the gSCARTsw on multiple aspects.
 
@@ -13,6 +11,8 @@ A smart controller for gScartSW v5.2 that works with RetroTink 4K. This device c
 - Control RetroTink 4K with various USB controllers, or even a keyboard/mouse.
 
 Please refer to Project Wiki pages for more detailed information.
+
+![image](https://github.com/user-attachments/assets/b72ef1bd-7279-4c3d-9a03-44363c54772e)
 
 # Quick User Reference Guide
 
