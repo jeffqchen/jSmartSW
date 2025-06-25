@@ -73,3 +73,15 @@ Generic
 - USB Keyboard
 - USB Mouse
 
+***
+
+# Special Thanks
+
+**Mike Chi** - https://www.retrotink.com
+- [RetroTINK-4K Pro](https://www.retrotink.com/shop/retrotink-4k)
+- [RetroTINK-4K CE](https://www.retrotink.com/shop/retrotink-4k-ce)
+
+***
+
+# Support Me on Ko-Fi
+- [Ko-Fi Page](https://ko-fi.com/designerjeffchen)
