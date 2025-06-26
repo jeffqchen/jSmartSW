@@ -77,11 +77,8 @@ Generic
 
 # Related Projects
 
-jSmartSW Firmware - The software that runs inside the board
-- https://github.com/jeffqchen/jsmartsw_fw
-
-jSmartSW Hardware - The required info for building your own jSmartSW
-- https://github.com/jeffqchen/jsmartsw_hw
+- [jSmartSW Firmware](../jsmartsw_fw) - The software that runs inside the board
+- [jSmartSW Hardware](../jsmartsw_hw) - The required info for building your own jSmartSW
 
 # Special Thanks
 
